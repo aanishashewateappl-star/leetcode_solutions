@@ -1,3 +1,4 @@
+# Brute Force: O(n²) time, O(1) space
 class Solution(object):
     def twoSum(self, nums, target):
         """
